@@ -8,9 +8,9 @@
 const int sensePin = A3;
 
 // Lorawan Device ID, App ID, and App Key
-const char *devEui = "00D0DA8B23A5D2A4";
-const char *appEui = "70B3D57ED00227BC";
-const char *appKey = "7A885E8DF14CAFCD997D9E1B98ABF85D";
+const char *devEui = "**********";
+const char *appEui = "********";
+const char *appKey = "*******";
 
 #define MY_FREQUENCY_PLAN TTN_FP_US915 // One of TTN_FP_EU868, TTN_FP_US915, TTN_FP_AS920_923, TTN_FP_AS923_925, TTN_FP_KR920_923
 
